@@ -4,7 +4,7 @@
   "description": "This algorithm implements the original universal random number generator as proposed by Marsaglia & Zaman in report FSU-SCRI-87-50 and coded in FORTRAN77 by Fred James as the RANMAR generator, part of the MATHLIB HEP library.",
   "main": "JamesRandom.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jasmine"
   },
   "keywords": [
     "Random",
@@ -20,6 +20,8 @@
   "bugs": {
     "url": "https://github.com/quinonez/JamesRandom/issues"
   },
-  "homepage": "https://github.com/quinonez/JamesRandom#readme"
+  "homepage": "https://github.com/quinonez/JamesRandom#readme",
+  "dependencies": {
+    "jasmine": "^2.4.1"
+  }
 }
-
