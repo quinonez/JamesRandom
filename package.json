@@ -1,0 +1,16 @@
+{
+  "name": "jamesrandom",
+  "version": "1.0.4",
+  "description": "This algorithm implements the original universal random number generator as proposed by Marsaglia & Zaman in report FSU-SCRI-87-50 and coded in FORTRAN77 by Fred James as the RANMAR generator, part of the MATHLIB HEP library.",
+  "main": "JamesRandom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Random",
+    "Numbers",
+    "Generator"
+  ],
+  "author": "Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>",
+  "license": "MIT"
+}
