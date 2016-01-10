@@ -11,6 +11,15 @@
     "Numbers",
     "Generator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quinonez/JamesRandom.git"
+  },
   "author": "Fernando Quinonez <fernando.andres.quinonez.granados@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quinonez/JamesRandom/issues"
+  },
+  "homepage": "https://github.com/quinonez/JamesRandom#readme"
 }
+
